@@ -1,0 +1,1 @@
+# PowerToys Keyboard Manager config.
